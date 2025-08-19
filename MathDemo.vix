@@ -1,0 +1,29 @@
+use math_ext
+
+print "=== vixScript Math Demo ==="
+
+print add(5, 3)
+print sub(10, 4)
+print mul(6, 7)
+print div(20, 5)
+print mod(10, 3)
+print pow(2, 8)
+
+print sqrt(49)
+print sin(PI()/2)
+print cos(0)
+print tan(PI()/4)
+print log(E())
+print log10(1000)
+print exp(2)
+
+print floor(3.7)
+print ceil(3.2)
+print round(3.6)
+print abs(-10)
+
+print PI()
+print E()
+print TAU()
+print INF()
+print NAN()

@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../extensions"
+		},
+		{
+			"path": "../vixpip"
 		}
 	],
 	"settings": {}
